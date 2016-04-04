@@ -1,0 +1,5 @@
+Three.js
+1. scene    a container that is used to store and keep track of all the objects that we want to render.
+2. camera   the camera variable defines what we'll see when we render the scene.
+3. renderer responsible for calculating what the scene will look like in the browser based on the camera angle.
+
